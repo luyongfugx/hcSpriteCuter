@@ -7,9 +7,9 @@ a nodejs cut sprite images into single image
 hcSpriteCuter是一个用nodejs写的一个雪碧图拆分工具。
 demo
 架设我有一张图片：
-<img src="https://github.com/luyongfugx/hcSpriteCuter/blob/master/copte.png"\>
+<img src="https://raw.githubusercontent.com/luyongfugx/hcSpriteCuter/master/copte.png"\>
 运行：
 node hcSpriteCuter.js copte.png 
 
 则程序会在export目录下将copte.png切成一下多个图片：
-<img src="https://github.com/luyongfugx/hcSpriteCuter/blob/master/export/copte/copte0.png"\>
+<img src="https://raw.githubusercontent.com/luyongfugx/hcSpriteCuter/master/export/copte/copte0.png"\>
