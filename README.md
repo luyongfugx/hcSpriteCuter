@@ -7,9 +7,9 @@ hcSpriteCuter
 hcSpriteCuter是一个用nodejs写的一个雪碧图拆分工具。</p>
 <p>demo</p>
 <p>架设我有一张图片：</p>
-<p><img src="https://raw.githubusercontent.com/luyongfugx/hcSpriteCuter/master/copte.png"\></p>
+<p><img src="https://raw.githubusercontent.com/luyongfugx/hcSpriteCuter/master/copte.png" ></p>
 <p>运行：</p>
 <p>node hcSpriteCuter.js copte.png </p>
 
 <p>则程序会在export目录下将copte.png切成一下多个图片：</p>
-<p><img src="https://raw.githubusercontent.com/luyongfugx/hcSpriteCuter/master/export/copte/copte0.png"\></p>
+<p><img src="https://raw.githubusercontent.com/luyongfugx/hcSpriteCuter/master/export/copte/copte0.png" ></p>
